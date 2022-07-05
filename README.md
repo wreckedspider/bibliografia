@@ -29,6 +29,7 @@ Em vídeo, o conteúdo é mais rápido de ser assistido e o nível de profundida
 1. Lógica de Programação e Estruturas de Dados com  aplicações em Java, Sandra Puga e Gerson Rissetti;
 2. Organização Estruturada de Computadores, Tenembaum e Austin;
 3. Montagem de Micros, Gabriel Torres;
+4. Algoritmos: Teoria e Prática, Ronald Rivest;
 
 ### ferramentas e tecnologias;
 1. GIT; https://www.youtube.com/watch?v=OuOb1_qADBQ
